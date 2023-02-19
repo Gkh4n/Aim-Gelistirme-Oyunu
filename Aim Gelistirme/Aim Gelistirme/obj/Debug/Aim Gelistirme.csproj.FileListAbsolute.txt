@@ -1,0 +1,11 @@
+C:\Users\Gokhany\Desktop\Asp .NET Core MVC\Aim Gelistirme\Aim Gelistirme\bin\Debug\Aim Gelistirme.exe.config
+C:\Users\Gokhany\Desktop\Asp .NET Core MVC\Aim Gelistirme\Aim Gelistirme\bin\Debug\Aim Gelistirme.exe
+C:\Users\Gokhany\Desktop\Asp .NET Core MVC\Aim Gelistirme\Aim Gelistirme\bin\Debug\Aim Gelistirme.pdb
+C:\Users\Gokhany\Desktop\Asp .NET Core MVC\Aim Gelistirme\Aim Gelistirme\obj\Debug\Aim Gelistirme.csproj.AssemblyReference.cache
+C:\Users\Gokhany\Desktop\Asp .NET Core MVC\Aim Gelistirme\Aim Gelistirme\obj\Debug\Aim Gelistirme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gokhany\Desktop\Asp .NET Core MVC\Aim Gelistirme\Aim Gelistirme\obj\Debug\Aim_Gelistirme.Form1.resources
+C:\Users\Gokhany\Desktop\Asp .NET Core MVC\Aim Gelistirme\Aim Gelistirme\obj\Debug\Aim_Gelistirme.Properties.Resources.resources
+C:\Users\Gokhany\Desktop\Asp .NET Core MVC\Aim Gelistirme\Aim Gelistirme\obj\Debug\Aim Gelistirme.csproj.GenerateResource.cache
+C:\Users\Gokhany\Desktop\Asp .NET Core MVC\Aim Gelistirme\Aim Gelistirme\obj\Debug\Aim Gelistirme.csproj.CoreCompileInputs.cache
+C:\Users\Gokhany\Desktop\Asp .NET Core MVC\Aim Gelistirme\Aim Gelistirme\obj\Debug\Aim Gelistirme.exe
+C:\Users\Gokhany\Desktop\Asp .NET Core MVC\Aim Gelistirme\Aim Gelistirme\obj\Debug\Aim Gelistirme.pdb
